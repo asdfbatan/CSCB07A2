@@ -1,0 +1,8 @@
+Class names: IncorrectPathException
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities:
+* throws exception when trying to change directory into invalid path
+
+Collaborators: 

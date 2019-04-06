@@ -1,0 +1,8 @@
+Class names: CreateDirWithSymbolException
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities:
+* throws exception when trying to create a directory/file with a symbol
+
+Collaborators: 

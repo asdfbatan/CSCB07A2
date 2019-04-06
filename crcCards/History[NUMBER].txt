@@ -1,0 +1,10 @@
+Class names: History[NUMBER]
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* print out recent commands, one command per line, command with highest number is the most recent command
+* for given number, print out last NUMBER commands
+
+Collaborators:
+* Commands

@@ -1,0 +1,18 @@
+Class names: Directory
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities:
+* Organizes folders into a hierarchical structure
+* Keeps track of full path to current directory
+* Keeps track of paths of all directories 
+
+Collaborators: 
+* CdDIR
+* EchoSTRING[>OUTFILE]
+* EchoSTRING>>OUTFILE
+* Ls[PATH]
+* Mkdir[DIR]
+* Popd
+* PushDIR
+* Pwd

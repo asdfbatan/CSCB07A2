@@ -1,0 +1,45 @@
+October 18 to October 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to print the whole path of the current	working directory. [Pwd]
+b) As a user, I want to create directories relative to current directory, or create a full path of directories. [Mkdir]
+c) As a user, I want to print contents (a file or a directory) of the current directory, with a new line following each Content. [Ls]
+d) As a user, I want to print a file if I give a path to a file, or print the contents of a directory, if I give a path to a directory.[Ls[Path]]
+e) As a user, I want to change my directory to another directory that may be relevant to the current directory, or to a different full path. [Cd]
+f) As a user, I want check whether my command is valid or not.
+g) As a user, I can view my user command history from most recent one to the oldest. I can also choose to display the history from a given number [History[Number]]
+h) As a user, I want to print documentation for CMD. [MAN CMD]
+i) As a user, I want to be able to type the commands into the shell. [JShell]
+
+
+Specific tasks to be accomplished:
+a-1. (Pwd) Implement the Pwd class.
+b-1. (Mkdir) Implement the Mkdir class
+c-1. (Ls) Implement the Ls class.
+d-1. (Ls[path]) Implement the Ls[path] class
+e-1. (Cd) Implement the Cd class
+f-1. (JShell)Validation of command
+g-1. (History[Number]) Implement the History[Number] class
+h-1. (Man Cmd) Implement the Man Cmd class
+i-1. Begin coding on JShell
+
+k-1. Work on crc Cards.
+k-2. (Directory) Write the base code for the Directory class
+k-3. Implement the FileHandler
+
+
+
+These tasks are assigned as follows:
+
+User: Jeffery Wei Xuan Su
+Tasks: k-1, k-2, i-1
+
+User: Tian Xia
+Tasks: k-1, b-1, c-1, h-18
+
+User: Ti Zhang
+Tasks: k-1, e-1, f-1, k-3
+
+User: Yuk Ming Lam
+Tasks: k-1, a-1, d-1, g-1

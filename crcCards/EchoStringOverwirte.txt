@@ -1,0 +1,11 @@
+Class names: EchoStringOverwrite
+Parent class (if any): Commands
+Subclasses (if any): N/A
+
+Responsibilities:
+* Given a string of characters STRING and a file OUTFILE, create a new file if OUTFILE does not exist and put STRING in OUTFILE.
+* If OUTFILE exists, erase the old contents of OUTFILE and put STRING in OUTFILE.
+
+Collaborators:
+* CatFILE1[FILE2]
+* Directory

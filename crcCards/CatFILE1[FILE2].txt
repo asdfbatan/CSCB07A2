@@ -1,0 +1,10 @@
+Class names: CatFILE1[FILE2]
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Displays the contents of a file FILE1 in the shell
+* if there is FILE2 then displays it after FILE1
+
+Collaborators:
+*Directory

@@ -1,0 +1,12 @@
+Class names:  Load
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Loads a previous state of the program called FileName.
+
+
+Collaborators:
+* Directory
+* Pushd
+* History

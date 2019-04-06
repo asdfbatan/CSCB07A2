@@ -1,0 +1,60 @@
+Backlog Item                                                |	Estimate
+----------------------------------------------------------------------------
+Allow user to quit the program                              |   1 hr
+----------------------------------------------------------------------------
+As a user, I want to create directories relative to current |   2 hrs
+directory, or create a full path of directories.            |
+----------------------------------------------------------------------------
+As a user, I want to change my directory to another         |   2 hrs
+directory that may be relevant to the current directory, or |
+to a different full path.                                   |
+----------------------------------------------------------------------------
+As a user, I want to print contents (a file or a directory) |   1 hr
+of the current directory, with a new line following each    |
+content.                                                    |
+----------------------------------------------------------------------------
+As a user, I want to print a file if I give a path to a     |   1 hr
+file, or print the contents of a directory, if I give a     |
+path to a directory.                                        |
+----------------------------------------------------------------------------
+As a user, I want to print the whole path of the current    |   5 days
+working directory                                           |
+----------------------------------------------------------------------------
+As a user, I want check whether my command is valid to use  |   3 hrs
+or not                                                      |
+----------------------------------------------------------------------------
+As a user, I want to be able to save the current working    |   1 hr
+directory and keep track of the previous directories.       |
+----------------------------------------------------------------------------
+As a user, I want to return to the previous working         |   1 hr
+directory.                                                  |
+----------------------------------------------------------------------------
+As a user, I can view my user command history from most     |   3 hrs
+Recent one to the oldest. I can also choose to display the  |
+History from a given number                                 |
+----------------------------------------------------------------------------
+As a user, I want to see the contents of the one or more    |   3 hrs
+files in the shell, separated by three line breaks if there |
+is more than one file.                                      |
+----------------------------------------------------------------------------
+As a user, I want to print a string on the shell. If I have |   3 hrs				
+given a file name, then erase the old contents and add the  |
+string into the file. If the edited string doesn't exist,   |
+then create the file with the string in it                  |
+----------------------------------------------------------------------------
+As a user, I want to add a string into a file without       |   3 hrs
+overwriting it.                                             |
+----------------------------------------------------------------------------
+As a user, I want to overwrite a file with a string         |   3 hrs                                            |
+----------------------------------------------------------------------------
+As a user, I want to print documentation for CMD.           |   1 hr
+----------------------------------------------------------------------------
+As a user, I want to be able to type the commands into      |   5 days
+the shell.                                                  |
+----------------------------------------------------------------------------
+As a user, I want to be able to insert any amount of white  |   1 hr
+spaces in between commands.                                 |
+----------------------------------------------------------------------------
+As a user, I want to have a brief review of all the commands|   1 hr
+I can use and the using requirements.                       |
+----------------------------------------------------------------------------

@@ -1,0 +1,11 @@
+Class names:  Redirection
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* can either > Outfile or >> Outfile. this can applied to every command except for exit.
+* this command will capture the output of the commands and redirects it to the outfile.
+* when the command does not give any output then you must not create an Outfile.
+
+
+Collaborators:

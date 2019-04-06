@@ -1,0 +1,218 @@
+==== A2 phase I marking ====
+Your assignment is marked by:
+Stephen Luc, stephen.luc@mail.utoronto.ca
+
+Group number:0387
+UTORID members:Sujeffer, xiatia18,zhan5263,lamyuk1
+Total deductions: 11
+Grade: D- (The instructor, however, increased your group mark from D- to C-)
+
+Individual Adjustment:
+Sujeffer -> F
+
+Your team's Phase II grade is based on this scale:
+
+    http://www.artsci.utoronto.ca/newstudents/transition/academic/grading
+
+The way we graded is as follows: your team starts with an A+. When errors and
+problems are found, you will lose 0, 1, 2, or 3 letter steps, depending on the
+severity. As an example, if you lost two steps, your team would earn an A-:
+
+     A+ -> A
+     A -> A-
+
+You were asked to follow the Scrum process. A big part of that is to maintain
+a product backlog and a sprint backlog.
+
+==== Product and Sprint backlogs ==== [up to -6]
+
+Several steps can be lost for these kinds of issues:
+
+- [ ]   No evidence of Product or Sprint backlog -6
+- [ ]   No evidence of team assigning tasks to team members -3
+- [ ]   SB items not taken directly from PB -1
+- [x]   SB items not broken down into smaller steps -1
+- [ ]   PB, SB uses noticeably bad grammar and/or spelling -2
+TA COMMENTS: 
+Only one of the tasks in both sprints were broken down
+[Total deductions in this section: 1]
+
+==== Java Style ==== [up to -6]
+
+Steps can be lost for these kinds of issues:
+
+- [x]     Java naming conventions not followed (camelCase, no_underscores) -1
+- [ ]     Instance variable names not meaningful (e.g., "Label1" is not a good name) -1
+- [ ]     Bad indentation -1
+- [ ]     Lack of consistency in style across files -1
+- [ ]     Bad use of whitespace: too much or too little -1
+- [ ]     Class names are frequently not noun phrases -1
+- [ ]     Method names are frequently not verb phrases -1
+- [ ]     Not following the 80character column width limit. -1
+TA COMMENTS: 
+History and Controller use snake_case
+[Total deductions in this section: 1]
+
+==== Design ==== [up to -6]
+
+Several steps can be lost for these kinds of issues:
+
+- [ ]     public instance variables instead of setters and getters -1 to -2
+- [ ]     not a good breakdown of classes and methods (everything static;) -1
+- [x]     long methods exist (more than roughly 30 lines from brace to brace) -1
+- [ ]     hard to add new commands -1
+- [ ]     no unified path handling mechanism -2
+- [ ]     redirection doesn't easily incorporate new commands -2
+TA COMMENTS: 
+Long methods exist in Controller, Cp, Mv, 
+[Total deductions in this section: 1]
+
+==== Javadoc ==== [up to -3]
+
+Several steps can be lost for these kinds of issues:
+
+- [ ]     Missing Javadoc on methods -1 for infrequent problems, up to -3 for frequent
+- [ ]     Missing Javadoc on class -1
+- [ ]     No Javadoc on instance vars -1
+- [ ]     Missing use @param and @return tags -1
+- [ ]     Unclear English: bad grammar, bad spelling up to -2
+TA COMMENTS: 
+[Total deductions in this section: 0]
+
+==== Testing ==== [up to -6] 
+Several steps can be lost for these kinds of issues:
+
+- [ ]     No test cases exist for public methods -6
+- [x]     Some testing done for all classes and methods, but not thoroughly up to -3
+- [ ]     Test quality is inadequate or tests uninformative -1 to -2 (e.g., testing using lots of print statements instead of assert calls)
+- [ ]     Code not written to be testable -2
+TA COMMENTS: 
+For classes with exceptions, did not test to catch exceptions
+No tests were made for Popd
+[Total deductions in this section: 2]
+
+==== Correctness ==== [up to -6]
+
+- [ ]     Code doesn't compile without modification (if the fix is simple) -1
+- [ ]     Code that is complete (from the SB) doesn't work completely: up to -2
+- [x]     Code crashes: -3
+- [x]     Each missing/incomplete feature -1
+TA COMMENTS: 
+Failed test cases [7]:
+
+1. Load an invalid file
+Input:
+#: load randomFile
+Actual Output:
+java.io.FileNotFoundException: randomFile (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at driver.Serialization.deserialization(Unknown Source)
+	at driver.Load.runCommand(Unknown Source)
+	at driver.Controller.execute(Unknown Source)
+	at driver.JShell.handleOrder(Unknown Source)
+	at driver.JShell.main(Unknown Source)
+Expected Output:
+randomFile does not exist (or similar error)
+
+2. Disabling load command if it is not the first command
+Input:
+/# mkdir A
+/# load file
+/# ls
+Actual Output:
+(Loads successfully)
+Expected Output:
+load is disabled (or similar error)
+
+3. Simply ls and redirect output
+Input:
+/# mkdir A
+/# ls > lsOut
+/# cat lsOut
+Actual Output:
+Exception in thread "main" java.lang.StringIndexOutOfBoundsException: String index out of range: 0
+	at java.lang.String.charAt(String.java:658)
+	at driver.Ls.runCommand(Unknown Source)
+	at driver.Controller.caseForLs(Unknown Source)
+	at driver.Controller.execute(Unknown Source)
+	at driver.JShell.handleOrder(Unknown Source)
+	at driver.JShell.main(Unknown Source)
+Expected Output:
+A
+
+4.ls with multiple paths (including file and invalid path) and redirect output
+
+Input:
+/# mkdir A
+/# echo "root" > underRoot
+/# mkdir A/B
+/# mkdir A/B/C
+/# ls A underRoot random > lsOut
+
+Expected Output:
+random: invalid path
+/# cat lsOut
+A:
+B
+
+underRoot
+
+5.ls -R with multiple paths (including file and invalid path)
+
+Input:
+/# mkdir A
+/# echo "root" > underRoot
+/# mkdir A/B
+/# mkdir A/B/C
+/# ls -R A underRoot random
+
+Expected Output:
+A:
+B
+
+A/B:
+C
+
+underRoot
+
+random: invalid path
+
+6.mv directory to an existing directory
+
+Input:
+/# mkdir original
+/# mkdir target
+/# cd original
+/original# echo "test" > file
+/original# cd ..
+/# mv original target
+
+Expected Output:
+/# ls
+target
+/# cd target
+/target# ls
+original
+/target# cd original
+/target/original# ls
+file
+/target/original# cat file
+test
+
+7.mv file to new name
+
+Input:
+/# echo "test" > original
+/# mv original new
+
+Expected Output:
+/# ls
+new
+/# cat new
+test
+
+
+[Total deductions in this section: 6]

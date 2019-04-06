@@ -1,0 +1,12 @@
+Class names:  Save
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Saves the entire state of the program, written to the file FileName.
+
+
+Collaborators:
+* Directory
+* Pushd
+* History

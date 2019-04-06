@@ -1,0 +1,11 @@
+Class names: EchoStringAppend
+Parent class (if any): Commands
+Subclasses (if any): N/A
+
+Responsibilities:
+* Given a string of characters STRING, and a file OUTFILE, if OUTFILE doesn't exist, create a new file name OUTFILE and input the STRING into OUTFILE.
+* Given a string of characters STRING, and a file OUTFILE, if OUTFILE exist, open file OUTFILE and append the STRING into OUTFILE.
+
+Collaborators:
+* Cat
+* Directory

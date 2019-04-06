@@ -1,0 +1,12 @@
+Class names: JShell
+Parent class (if any): 
+Subclasses (if any): 
+
+Responsibilities:
+* Interact with the operating system
+* Prompt user for input
+* Speperate the orders and pass them on to Controller
+
+Collaborators:
+* Controller
+* Exit

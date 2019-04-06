@@ -1,0 +1,8 @@
+Class names: inValidCommandException
+Parent class (if any):
+Subclasses (if any): 
+
+Responsibilities:
+* throws exception when trying to execute and invalid command
+
+Collaborators: 

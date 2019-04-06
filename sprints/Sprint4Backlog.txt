@@ -1,0 +1,40 @@
+November 12 to November 18
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to see the contents of more than one file in the shell,
+      separated by three line breaks if there is more than one file. [CAT]
+b) As a user, I want to be able to redirect output of commands to a file [>, >>]
+c) As a user, I want to be able to recursively list all sub directories. [Ls]
+d) As a user, I want to be able to find files or directories with a specific
+      name by giving one or more directory paths. [Find]
+e) As a user, I want to be able to move an item from one directory to another. [Mv]
+f) As a user, I want to be able to copy an item from one directory to another. [Cp]
+g) As a user, I want to be able to retrieve a file by giving a URL.
+      A file should be created in the current working directory.  [Get]
+
+Specific tasks to be accomplished:
+a-1 extend the Cat command to work with multiple files.
+b-1 implement redirection for all commands except exit.
+c-1 extend Ls to take in optional -R argument, to recursively list all subdirectories
+d-1 create and implement Find command
+e-1 create and implement Mv command
+f-1 create and implement Cp command
+g-1 create and imeplement Get command
+
+z-1. Work on crc Cards.
+
+
+These tasks are assigned as follows:
+
+User: Jeffery Wei Xuan Su
+Tasks: b-1
+
+User: Tian Xia
+Tasks: c-1, g-1
+
+User: Ti Zhang
+Tasks: a-1, d-1
+
+User: Yuk Ming Lam
+Tasks: e-1, f-1, z-1

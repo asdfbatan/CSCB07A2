@@ -1,0 +1,52 @@
+October 24 to October 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to print the whole path of the current	working directory. [Pwd]
+b) As a user, I want to create directories relative to current directory, or create a full path of directories. [Mkdir]
+c) As a user, I want to print contents (a file or a directory) of the current directory, with a new line following each Content.
+   I also want to print the file if give a path to a file or print the contents of a directory if I give a path to a directory.[Ls]
+d) As a user, I want to change my directory to another directory that may be relevant to the current directory, or to a different full path. [Cd]
+e) As a user, I can view my user command history from most recent one to the oldest. I can also choose to display the history from a given number[History[Number]]
+f) As a user, I want to print documentation for CMD. [MAN CMD]
+g) As a user, I want to see the contents of the one or more files in the shell, separated by three line breaks if there is more than one file.  [CatFILE1[FILE2]]   
+h) As a user, I want to be able to save the current working directory and keep track of the previous directories. [Pushd]
+i) As a user, I want to return to the previous working directory. [PopDIR]
+j) As a user, I want check whether my command is valid or not.
+k) As a user, I want to be able to type the commands into the shell. [JShell]
+
+Specific tasks to be accomplished:
+a-1. (Pwd) Implement the Pwd class.
+b-1. (Mkdir) Implement the Mkdir class
+c-1. (Ls) Implement the Ls class.
+d-1. (Cd) Implement the Cd class
+e-1. (History[Number]) Implement the History[Number] class
+f-1. (Man Cmd) Implement the Man Cmd class
+g-1. (CatFILE1[FILE2])implement the CatFILE1[FILE2] class 
+h-1. implement PushDIR class
+i-1. implement Popd class
+j-1. Validation of command
+k-1. Begin coding on JShell
+
+z-1. Work on crc Cards.
+z-2. Implement the file controller class
+z-3. (Directory) Write the base code for the Directory class
+
+
+
+
+These tasks are assigned as follows:
+
+User: Jeffery Wei Xuan Su
+Tasks: z-1, z-3, k-1, c-1
+
+User: Tian Xia
+Tasks: z-1, z-3, k-1, f-1, b-1
+
+User: Ti Zhang
+Tasks: z-1, z-2, k-1, j-1, g-1
+
+User: Yuk Ming Lam
+Tasks: z-1, z-3, k-1, h-1, i-1, a-1
+
+

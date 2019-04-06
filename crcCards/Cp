@@ -1,0 +1,12 @@
+Class names:  Cp
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Creates a duplicate of item specified by OLDPATH and adds it to NEWPATH.
+  The duplicate is independent of the original item from OLDPATH.
+
+
+Collaborators:
+* Directory
+* Cd

@@ -1,0 +1,10 @@
+Class names: Mkdir[DIR]
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Create directories, each of which may be relative to the current directory or may be a full path
+
+Collaborators:
+* Directory
+* Cd

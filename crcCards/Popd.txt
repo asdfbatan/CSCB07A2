@@ -1,0 +1,10 @@
+Class names: Popd
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Remove the last entry from the directory stack, and cd into it
+
+Collaborators:
+* Directory
+* CdDIR

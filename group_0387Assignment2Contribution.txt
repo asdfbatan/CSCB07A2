@@ -1,0 +1,1323 @@
++++ASSIGNMENT2 TEAM MEMBER CONTRIBUTION+++
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment2/crcCards
+A    Assignment2/dailyScrumMeetings
+A    Assignment2/productBacklog
+A    Assignment2/crcCards/CatFILE1[FILE2].txt
+A    Assignment2/crcCards/CdDIR.txt
+A    Assignment2/crcCards/Commands.txt
+A    Assignment2/crcCards/Controller.txt
+A    Assignment2/crcCards/CreateDirWithSymbolException
+A    Assignment2/crcCards/Directory.txt
+A    Assignment2/dailyScrumMeetings/xiatia18Sprint2October23.txt
+A    Assignment2/dailyScrumMeetings/xiatia18Sprint3October27.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint2October23.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint3November7.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint4October30.txt
+A    Assignment2/sprints
+A    Assignment2/dailyScrumMeetings/lamyuk1Sprint3November7.txt
+A    Assignment2/dailyScrumMeetings/sujefferSprint1October20.txt
+A    Assignment2/dailyScrumMeetings/sujefferSprint2October27txt.txt
+A    Assignment2/dailyScrumMeetings/sujefferSprint3November3.txt
+A    Assignment2/dailyScrumMeetings/xiatia18Sprint1October21.txt
+A    Assignment2/src
+A    Assignment2/src/driver
+A    Assignment2/sprints/Sprint2Backlog.txt
+A    Assignment2/src/driver/Cd.java
+A    Assignment2/crcCards/EchoStringAppend.txt
+A    Assignment2/crcCards/EchoStringOverwirte.txt
+A    Assignment2/crcCards/Exit.txt
+A    Assignment2/crcCards/History[NUMBER].txt
+A    Assignment2/crcCards/IncorrectPathException
+A    Assignment2/crcCards/JShell.txt
+A    Assignment2/sprints/Sprint1Backlog.txt
+A    Assignment2/src/driver/Cat.java
+A    Assignment2/src/driver/EchoStringAppend.java
+A    Assignment2/src/driver/History.java
+A    Assignment2/dailyScrumMeetings/xiatia18Sprint3November7.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint1October20.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint3November3.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint3October30.txt
+A    Assignment2/productBacklog/readMeProductBacklog.txt
+A    Assignment2/src/exceptions
+A    Assignment2/src/test
+A    Assignment2/src/driver/Directory.java
+A    Assignment2/src/driver/File.java
+A    Assignment2/src/driver/Man.java
+A    Assignment2/sprints/readMeSprints.txt
+A    Assignment2/src/driver/Controller.java
+A    Assignment2/src/driver/Exit.java
+A    Assignment2/src/driver/Mkdir.java
+A    Assignment2/src/driver/Pwd.java
+A    Assignment2/src/exceptions/NameAlreadyExsistException.java
+A    Assignment2/src/test/testHistory.java
+A    Assignment2/crcCards/Ls[PATH].txt
+A    Assignment2/crcCards/ManCMD.txt
+A    Assignment2/crcCards/Mkdir[DIR].txt
+A    Assignment2/crcCards/Popd.txt
+A    Assignment2/crcCards/Pushd.txt
+A    Assignment2/crcCards/Pwd.txt
+A    Assignment2/src/test/testPWD.java
+A    Assignment2/src/driver/Pushd.java
+A    Assignment2/src/exceptions/IncorrectPathException.java
+A    Assignment2/src/test/testExit.java
+A    Assignment2/src/test/testMkdir.java
+A    Assignment2/readMeAssignment2A.txt
+A    Assignment2/src/driver/Ls.java
+A    Assignment2/src/driver/Popd.java
+A    Assignment2/src/exceptions/InValidCommandException.java
+A    Assignment2/src/test/testCd.java
+A    Assignment2/src/test/testMan.java
+A    Assignment2/src/test/testPushd.java
+A    Assignment2/crcCards/inValidCommandException
+A    Assignment2/crcCards/readMeForCrcCards.txt
+A    Assignment2/dailyScrumMeetings/lamyuk1Sprint1October20.txt
+A    Assignment2/dailyScrumMeetings/lamyuk1Sprint1October23.txt
+A    Assignment2/dailyScrumMeetings/lamyuk1Sprint2October27.txt
+A    Assignment2/dailyScrumMeetings/lamyuk1Sprint2October30.txt
+A    Assignment2/dailyScrumMeetings/lamyuk1Sprint3November3.txt
+A    Assignment2/dailyScrumMeetings/readMeDailyScrumMeetings.txt
+A    Assignment2/dailyScrumMeetings/sujefferSprint1October23.txt
+A    Assignment2/dailyScrumMeetings/sujefferSprint2October30txt.txt
+A    Assignment2/dailyScrumMeetings/sujefferSprint3November7.txt
+A    Assignment2/dailyScrumMeetings/xiatia18Sprint3November3.txt
+A    Assignment2/dailyScrumMeetings/xiatia18Sprint4October30.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint3Nov3.txt
+A    Assignment2/dailyScrumMeetings/zhan5263Sprint3October27.txt
+A    Assignment2/productBacklog/productBacklogFor2A.txt
+A    Assignment2/sprints/Sprint3Backlog.txt
+A    Assignment2/src/driver/Commands.java
+A    Assignment2/src/driver/EchoStringOverwrite.java
+A    Assignment2/src/driver/JShell.java
+A    Assignment2/src/driver/OrderTable.java
+A    Assignment2/src/exceptions/CreateDirWithSymbolException.java
+A    Assignment2/src/test/testCat.java
+A    Assignment2/src/test/testLs.java
+A    Assignment2/src/test/testPopd.java
+Checked out revision 279.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r279 | xiatia18@UTORONTO.CA | 2018-11-07 23:59:16 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the final meeting
+------------------------------------------------------------------------
+r278 | lamyuk1@UTORONTO.CA | 2018-11-07 23:58:31 -0500 (Wed, 07 Nov 2018) | 1 line
+
+-created 2 more crc cards
+------------------------------------------------------------------------
+r277 | zhan5263@UTORONTO.CA | 2018-11-07 23:57:56 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format!
+------------------------------------------------------------------------
+r276 | sujeffer@UTORONTO.CA | 2018-11-07 23:56:48 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Deleted a exception
+------------------------------------------------------------------------
+r275 | lamyuk1@UTORONTO.CA | 2018-11-07 23:56:19 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+- created CRC cards for CreateDirWithSymbolException and IncorrectPathException
+
+------------------------------------------------------------------------
+r274 | zhan5263@UTORONTO.CA | 2018-11-07 23:54:40 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format each class
+------------------------------------------------------------------------
+r273 | sujeffer@UTORONTO.CA | 2018-11-07 23:53:38 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for the Cat class
+------------------------------------------------------------------------
+r272 | xiatia18@UTORONTO.CA | 2018-11-07 23:52:25 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the test case
+------------------------------------------------------------------------
+r271 | zhan5263@UTORONTO.CA | 2018-11-07 23:48:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+debug echo
+------------------------------------------------------------------------
+r270 | sujeffer@UTORONTO.CA | 2018-11-07 23:48:10 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for Ls class
+------------------------------------------------------------------------
+r269 | xiatia18@UTORONTO.CA | 2018-11-07 23:42:40 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the pop exception
+------------------------------------------------------------------------
+r268 | zhan5263@UTORONTO.CA | 2018-11-07 23:42:04 -0500 (Wed, 07 Nov 2018) | 1 line
+
+debug echoOverwrite
+------------------------------------------------------------------------
+r267 | lamyuk1@UTORONTO.CA | 2018-11-07 23:40:06 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- removed main method from Popd, Pushd, and Pwd
+------------------------------------------------------------------------
+r266 | lamyuk1@UTORONTO.CA | 2018-11-07 23:38:52 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- deleted main method in Mkdir
+------------------------------------------------------------------------
+r265 | lamyuk1@UTORONTO.CA | 2018-11-07 23:38:10 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- deleted main method from History
+------------------------------------------------------------------------
+r264 | lamyuk1@UTORONTO.CA | 2018-11-07 23:37:37 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- deleted main method from Directory
+------------------------------------------------------------------------
+r263 | lamyuk1@UTORONTO.CA | 2018-11-07 23:35:41 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- removed main method from Cd
+------------------------------------------------------------------------
+r262 | lamyuk1@UTORONTO.CA | 2018-11-07 23:29:16 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- updated Ls CRC
+------------------------------------------------------------------------
+r261 | lamyuk1@UTORONTO.CA | 2018-11-07 23:28:40 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- updated JShell CRC
+------------------------------------------------------------------------
+r260 | sujeffer@UTORONTO.CA | 2018-11-07 23:28:39 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the crc Card for Pwd
+------------------------------------------------------------------------
+r259 | lamyuk1@UTORONTO.CA | 2018-11-07 23:27:04 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- updated Cd CRC
+------------------------------------------------------------------------
+r258 | lamyuk1@UTORONTO.CA | 2018-11-07 23:23:10 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r257 | sujeffer@UTORONTO.CA | 2018-11-07 23:16:39 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Added a task for the test files
+------------------------------------------------------------------------
+r256 | sujeffer@UTORONTO.CA | 2018-11-07 23:14:50 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Scrum meeting for Nov 7th
+------------------------------------------------------------------------
+r255 | sujeffer@UTORONTO.CA | 2018-11-07 23:11:50 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Changed the JUnit Since they changed the Exit Class
+------------------------------------------------------------------------
+r254 | lamyuk1@UTORONTO.CA | 2018-11-07 23:02:19 -0500 (Wed, 07 Nov 2018) | 1 line
+
+-debugged mkdir
+------------------------------------------------------------------------
+r253 | sujeffer@UTORONTO.CA | 2018-11-07 22:57:41 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for testing the History Class
+------------------------------------------------------------------------
+r252 | xiatia18@UTORONTO.CA | 2018-11-07 22:57:37 -0500 (Wed, 07 Nov 2018) | 1 line
+
+debug the controller
+------------------------------------------------------------------------
+r251 | lamyuk1@UTORONTO.CA | 2018-11-07 22:47:08 -0500 (Wed, 07 Nov 2018) | 1 line
+
+-debugging mkdir case
+------------------------------------------------------------------------
+r250 | xiatia18@UTORONTO.CA | 2018-11-07 22:42:40 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the name contains symbol exception
+------------------------------------------------------------------------
+r249 | zhan5263@UTORONTO.CA | 2018-11-07 22:30:34 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fix error in testMkdir
+------------------------------------------------------------------------
+r248 | lamyuk1@UTORONTO.CA | 2018-11-07 22:26:58 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- reverted History to not throw exception.
+------------------------------------------------------------------------
+r247 | sujeffer@UTORONTO.CA | 2018-11-07 22:20:30 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for testing Popd
+------------------------------------------------------------------------
+r246 | zhan5263@UTORONTO.CA | 2018-11-07 22:20:28 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update daily scrum meeting
+------------------------------------------------------------------------
+r245 | sujeffer@UTORONTO.CA | 2018-11-07 22:20:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for testing Pushd
+------------------------------------------------------------------------
+r244 | zhan5263@UTORONTO.CA | 2018-11-07 22:14:17 -0500 (Wed, 07 Nov 2018) | 1 line
+
+submit daliy scrum meeting
+------------------------------------------------------------------------
+r243 | xiatia18@UTORONTO.CA | 2018-11-07 22:12:12 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the mkdir and controller class to throw exception
+------------------------------------------------------------------------
+r242 | zhan5263@UTORONTO.CA | 2018-11-07 22:05:09 -0500 (Wed, 07 Nov 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r241 | zhan5263@UTORONTO.CA | 2018-11-07 22:04:10 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format exception
+------------------------------------------------------------------------
+r240 | xiatia18@UTORONTO.CA | 2018-11-07 22:03:04 -0500 (Wed, 07 Nov 2018) | 1 line
+
+change the name of this exception class for debug
+------------------------------------------------------------------------
+r239 | zhan5263@UTORONTO.CA | 2018-11-07 21:53:44 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format test folder(still errors in there)
+------------------------------------------------------------------------
+r238 | zhan5263@UTORONTO.CA | 2018-11-07 21:50:23 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format exceptions
+------------------------------------------------------------------------
+r237 | zhan5263@UTORONTO.CA | 2018-11-07 21:48:21 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format all
+------------------------------------------------------------------------
+r236 | lamyuk1@UTORONTO.CA | 2018-11-07 21:43:00 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+- reworked Exit in JShell; running command should be Controller's responsibility
+
+------------------------------------------------------------------------
+r235 | sujeffer@UTORONTO.CA | 2018-11-07 21:32:12 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Changed the ArrayList dirStack to be a public variable
+------------------------------------------------------------------------
+r234 | xiatia18@UTORONTO.CA | 2018-11-07 21:22:31 -0500 (Wed, 07 Nov 2018) | 1 line
+
+change  the history exception and try to catch it in controller
+------------------------------------------------------------------------
+r233 | xiatia18@UTORONTO.CA | 2018-11-07 20:58:19 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fix the bug of the valid check function didnt let / pass
+------------------------------------------------------------------------
+r232 | xiatia18@UTORONTO.CA | 2018-11-07 20:53:46 -0500 (Wed, 07 Nov 2018) | 1 line
+
+initialized a exception class for history
+------------------------------------------------------------------------
+r231 | sujeffer@UTORONTO.CA | 2018-11-07 20:51:45 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for testing the Mkdir Class
+------------------------------------------------------------------------
+r230 | zhan5263@UTORONTO.CA | 2018-11-07 19:59:23 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+add lines to print out current path after operation 
+in echo
+------------------------------------------------------------------------
+r229 | zhan5263@UTORONTO.CA | 2018-11-07 19:57:56 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fix trim
+------------------------------------------------------------------------
+r228 | lamyuk1@UTORONTO.CA | 2018-11-07 19:55:47 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- added root case to Cd
+------------------------------------------------------------------------
+r227 | zhan5263@UTORONTO.CA | 2018-11-07 19:48:51 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format controller
+------------------------------------------------------------------------
+r226 | sujeffer@UTORONTO.CA | 2018-11-07 19:48:29 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for testing the Man class
+------------------------------------------------------------------------
+r225 | zhan5263@UTORONTO.CA | 2018-11-07 19:47:45 -0500 (Wed, 07 Nov 2018) | 1 line
+
+format all
+------------------------------------------------------------------------
+r224 | xiatia18@UTORONTO.CA | 2018-11-07 19:46:20 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the isvalid now it can detect the wrong path with only "/" is given
+------------------------------------------------------------------------
+r223 | zhan5263@UTORONTO.CA | 2018-11-07 19:37:59 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fix error in cat
+------------------------------------------------------------------------
+r222 | xiatia18@UTORONTO.CA | 2018-11-07 19:36:52 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+update the isvalid method and make it able to check where is wrong
+
+------------------------------------------------------------------------
+r221 | sujeffer@UTORONTO.CA | 2018-11-07 19:35:35 -0500 (Wed, 07 Nov 2018) | 1 line
+
+JUnit for testing the Pwd class.
+------------------------------------------------------------------------
+r220 | zhan5263@UTORONTO.CA | 2018-11-07 19:35:20 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fix some error in echoAppend
+------------------------------------------------------------------------
+r219 | zhan5263@UTORONTO.CA | 2018-11-07 19:30:29 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fixed some error in echoOverwrite
+------------------------------------------------------------------------
+r218 | lamyuk1@UTORONTO.CA | 2018-11-07 19:30:29 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- daily scrum meeting nov7
+------------------------------------------------------------------------
+r217 | xiatia18@UTORONTO.CA | 2018-11-07 19:27:45 -0500 (Wed, 07 Nov 2018) | 1 line
+
+finish the is valid method and test it
+------------------------------------------------------------------------
+r216 | lamyuk1@UTORONTO.CA | 2018-11-07 19:11:11 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- added honor code to all files
+------------------------------------------------------------------------
+r215 | lamyuk1@UTORONTO.CA | 2018-11-07 19:04:58 -0500 (Wed, 07 Nov 2018) | 4 lines
+
+-Cd: implemented temporary exception for invalid path
+-Jshell: fixed errors with orderHandler regarding echo
+-Ls: completed the Ls class to accept file path, or file name
+-Mkdir: tested for errors
+------------------------------------------------------------------------
+r214 | zhan5263@UTORONTO.CA | 2018-11-07 18:45:36 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+change the name of dailyScrumMeeting:
+from zhan5263Sprint3Nov3.txt to zhan5263Sprint3ONovember3.txt
+------------------------------------------------------------------------
+r213 | zhan5263@UTORONTO.CA | 2018-11-07 18:38:17 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add honor code
+------------------------------------------------------------------------
+r212 | zhan5263@UTORONTO.CA | 2018-11-07 18:33:40 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add lines in echo to detect errors
+------------------------------------------------------------------------
+r211 | zhan5263@UTORONTO.CA | 2018-11-07 18:23:38 -0500 (Wed, 07 Nov 2018) | 1 line
+
+fix some error in overwrite
+------------------------------------------------------------------------
+r210 | zhan5263@UTORONTO.CA | 2018-11-07 18:17:33 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add connection to echoStringAppend
+------------------------------------------------------------------------
+r209 | xiatia18@UTORONTO.CA | 2018-11-07 18:09:26 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the try and catch exception
+------------------------------------------------------------------------
+r208 | xiatia18@UTORONTO.CA | 2018-11-07 17:23:27 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update my user information
+------------------------------------------------------------------------
+r207 | lamyuk1@UTORONTO.CA | 2018-11-07 17:10:59 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- removed some duplicate code in orderHandler
+------------------------------------------------------------------------
+r206 | lamyuk1@UTORONTO.CA | 2018-11-07 17:09:12 -0500 (Wed, 07 Nov 2018) | 1 line
+
+-implemented mkdir function for multiple paths
+------------------------------------------------------------------------
+r205 | lamyuk1@UTORONTO.CA | 2018-11-07 17:07:21 -0500 (Wed, 07 Nov 2018) | 1 line
+
+-fixed error in orderHandler when given string input
+------------------------------------------------------------------------
+r204 | lamyuk1@UTORONTO.CA | 2018-11-07 16:33:27 -0500 (Wed, 07 Nov 2018) | 1 line
+
+- removed an unnecessary variable in orderHandler
+------------------------------------------------------------------------
+r203 | lamyuk1@UTORONTO.CA | 2018-11-07 16:29:08 -0500 (Wed, 07 Nov 2018) | 1 line
+
+-reworked orderHandler to allow multiple parameters
+------------------------------------------------------------------------
+r202 | xiatia18@UTORONTO.CA | 2018-11-07 16:23:31 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the isvalid method to the controller class
+------------------------------------------------------------------------
+r201 | xiatia18@UTORONTO.CA | 2018-11-07 15:28:27 -0500 (Wed, 07 Nov 2018) | 1 line
+
+initialize the idea of is valid method in controller
+------------------------------------------------------------------------
+r200 | xiatia18@UTORONTO.CA | 2018-11-07 14:30:53 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update the cat class with constructor, update the man class to make it works, update the controller class to make it works, update the commands class with a constructor
+------------------------------------------------------------------------
+r199 | xiatia18@UTORONTO.CA | 2018-11-07 13:32:41 -0500 (Wed, 07 Nov 2018) | 1 line
+
+add abstract variable and method to the commands class for a more efficient and logical way to use run man command
+------------------------------------------------------------------------
+r198 | zhan5263@UTORONTO.CA | 2018-11-07 00:43:54 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update sprint3backlog
+------------------------------------------------------------------------
+r197 | zhan5263@UTORONTO.CA | 2018-11-07 00:41:58 -0500 (Wed, 07 Nov 2018) | 1 line
+
+update product backlog
+------------------------------------------------------------------------
+r196 | zhan5263@UTORONTO.CA | 2018-11-07 00:35:51 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+debug echo related
+- confused in handleOrder
+------------------------------------------------------------------------
+r195 | zhan5263@UTORONTO.CA | 2018-11-07 00:23:54 -0500 (Wed, 07 Nov 2018) | 1 line
+
+change it back
+------------------------------------------------------------------------
+r194 | zhan5263@UTORONTO.CA | 2018-11-07 00:22:48 -0500 (Wed, 07 Nov 2018) | 2 lines
+
+change line90 split in JShell
+-don't know if correct
+------------------------------------------------------------------------
+r193 | sujeffer@UTORONTO.CA | 2018-11-06 23:01:09 -0500 (Tue, 06 Nov 2018) | 1 line
+
+changed the variable to public
+------------------------------------------------------------------------
+r192 | sujeffer@UTORONTO.CA | 2018-11-06 23:00:41 -0500 (Tue, 06 Nov 2018) | 1 line
+
+completed test for Exit class
+------------------------------------------------------------------------
+r191 | sujeffer@UTORONTO.CA | 2018-11-06 22:44:29 -0500 (Tue, 06 Nov 2018) | 1 line
+
+test files for cd, ls, history.
+------------------------------------------------------------------------
+r190 | xiatia18@UTORONTO.CA | 2018-11-06 22:42:39 -0500 (Tue, 06 Nov 2018) | 1 line
+
+update the man class but this is not the final version
+------------------------------------------------------------------------
+r189 | xiatia18@UTORONTO.CA | 2018-11-06 21:10:27 -0500 (Tue, 06 Nov 2018) | 1 line
+
+initialized man class
+------------------------------------------------------------------------
+r188 | xiatia18@UTORONTO.CA | 2018-11-06 20:35:45 -0500 (Tue, 06 Nov 2018) | 1 line
+
+initialize the namealreadyexsist exception class
+------------------------------------------------------------------------
+r187 | zhan5263@UTORONTO.CA | 2018-11-06 20:32:50 -0500 (Tue, 06 Nov 2018) | 1 line
+
+complete echoStringAppend
+------------------------------------------------------------------------
+r186 | zhan5263@UTORONTO.CA | 2018-11-06 20:25:22 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+-fixed echoStringOverwrite
+-cooperate with controller
+------------------------------------------------------------------------
+r185 | zhan5263@UTORONTO.CA | 2018-11-06 19:18:34 -0500 (Tue, 06 Nov 2018) | 1 line
+
+add main class to EchoOverWrite for test
+------------------------------------------------------------------------
+r184 | zhan5263@UTORONTO.CA | 2018-11-06 18:50:18 -0500 (Tue, 06 Nov 2018) | 1 line
+
+finish basic code for echooverwrite
+------------------------------------------------------------------------
+r183 | zhan5263@UTORONTO.CA | 2018-11-06 18:34:20 -0500 (Tue, 06 Nov 2018) | 1 line
+
+cooperate controller with echo string overwrite
+------------------------------------------------------------------------
+r182 | zhan5263@UTORONTO.CA | 2018-11-06 18:29:38 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+complete cat
+cat itself has no problem, somthing wrong in main. Confused now, will fix later
+------------------------------------------------------------------------
+r181 | zhan5263@UTORONTO.CA | 2018-11-06 18:15:46 -0500 (Tue, 06 Nov 2018) | 1 line
+
+update cat
+------------------------------------------------------------------------
+r180 | zhan5263@UTORONTO.CA | 2018-11-06 17:45:12 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+update cat
+
+------------------------------------------------------------------------
+r179 | zhan5263@UTORONTO.CA | 2018-11-06 17:45:01 -0500 (Tue, 06 Nov 2018) | 1 line
+
+update cat related in controller
+------------------------------------------------------------------------
+r178 | xiatia18@UTORONTO.CA | 2018-11-06 14:42:10 -0500 (Tue, 06 Nov 2018) | 1 line
+
+initialize the invalidcommand exception class
+------------------------------------------------------------------------
+r177 | xiatia18@UTORONTO.CA | 2018-11-06 14:17:48 -0500 (Tue, 06 Nov 2018) | 1 line
+
+initialized the package for exceptions and initialized the incorrectpath exception
+------------------------------------------------------------------------
+r176 | lamyuk1@UTORONTO.CA | 2018-11-06 13:59:08 -0500 (Tue, 06 Nov 2018) | 4 lines
+
+-modified orderHandler in Jshell to work with inputs for Echo
+-created mutator method for File
+-created Echo
+-modified Echo case in Controller
+------------------------------------------------------------------------
+r175 | zhan5263@UTORONTO.CA | 2018-11-06 13:13:27 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+add test code for cat class,
+may have error in adding file to a directory and get file array from a directory
+------------------------------------------------------------------------
+r174 | zhan5263@UTORONTO.CA | 2018-11-06 13:12:16 -0500 (Tue, 06 Nov 2018) | 1 line
+
+open cat access in controller
+------------------------------------------------------------------------
+r173 | zhan5263@UTORONTO.CA | 2018-11-06 13:08:22 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+add main to test cat class
+may have error in File class getContent method
+------------------------------------------------------------------------
+r172 | zhan5263@UTORONTO.CA | 2018-11-06 12:48:09 -0500 (Tue, 06 Nov 2018) | 1 line
+
+update cat
+------------------------------------------------------------------------
+r171 | zhan5263@UTORONTO.CA | 2018-11-06 12:31:33 -0500 (Tue, 06 Nov 2018) | 1 line
+
+change getContent method in file
+------------------------------------------------------------------------
+r170 | zhan5263@UTORONTO.CA | 2018-11-06 12:31:10 -0500 (Tue, 06 Nov 2018) | 1 line
+
+finish class cat
+------------------------------------------------------------------------
+r169 | lamyuk1@UTORONTO.CA | 2018-11-06 11:54:47 -0500 (Tue, 06 Nov 2018) | 3 lines
+
+-fixed bug in History; order of display was wrong
+-changed input parameter of History to take String to stay consistent with Controller
+-implemented History in Jshell/Controller
+------------------------------------------------------------------------
+r168 | zhan5263@UTORONTO.CA | 2018-11-06 11:36:13 -0500 (Tue, 06 Nov 2018) | 1 line
+
+add getContent method in file class
+------------------------------------------------------------------------
+r167 | zhan5263@UTORONTO.CA | 2018-11-06 11:30:52 -0500 (Tue, 06 Nov 2018) | 1 line
+
+change the dailyScrumMeeting of my last period
+------------------------------------------------------------------------
+r166 | zhan5263@UTORONTO.CA | 2018-11-06 11:26:41 -0500 (Tue, 06 Nov 2018) | 1 line
+
+commit dailyscrummeeting
+------------------------------------------------------------------------
+r165 | lamyuk1@UTORONTO.CA | 2018-11-06 11:09:54 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+-created exit class, implemented into JShell and controller.
+-fixed error in Cd regarding . and .. parameters
+------------------------------------------------------------------------
+r164 | lamyuk1@UTORONTO.CA | 2018-11-06 00:07:41 -0500 (Tue, 06 Nov 2018) | 1 line
+
+- further tested Mkdir, confirmed working as intended
+------------------------------------------------------------------------
+r163 | lamyuk1@UTORONTO.CA | 2018-11-06 00:03:17 -0500 (Tue, 06 Nov 2018) | 2 lines
+
+-worked on Mkdir
+-fixed naming error in Directory
+------------------------------------------------------------------------
+r162 | sujeffer@UTORONTO.CA | 2018-11-05 23:00:38 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Added setDirectory and addContents methods into the File class
+------------------------------------------------------------------------
+r161 | sujeffer@UTORONTO.CA | 2018-11-05 22:52:06 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Removed the directory parameter in the File Class
+------------------------------------------------------------------------
+r160 | lamyuk1@UTORONTO.CA | 2018-11-05 22:51:23 -0500 (Mon, 05 Nov 2018) | 3 lines
+
+- created method to add a File to Directory
+- created a working version of Mkdir
+
+------------------------------------------------------------------------
+r159 | lamyuk1@UTORONTO.CA | 2018-11-05 11:45:10 -0500 (Mon, 05 Nov 2018) | 4 lines
+
+- cleaned up output of Cd
+- added Pwd, Ls to controller
+- fixed error of Ls not working given a path
+- fixed error of JShell not initializing a root, leading to several commands not functioning
+------------------------------------------------------------------------
+r158 | lamyuk1@UTORONTO.CA | 2018-11-04 23:54:44 -0500 (Sun, 04 Nov 2018) | 1 line
+
+- added sprint3 meeting
+------------------------------------------------------------------------
+r157 | xiatia18@UTORONTO.CA | 2018-11-04 16:15:32 -0500 (Sun, 04 Nov 2018) | 1 line
+
+update the group meeting log
+------------------------------------------------------------------------
+r156 | sujeffer@UTORONTO.CA | 2018-11-04 00:49:22 -0400 (Sun, 04 Nov 2018) | 1 line
+
+Scurm meeting for nov 3th.
+------------------------------------------------------------------------
+r155 | zhan5263@UTORONTO.CA | 2018-11-01 14:31:49 -0400 (Thu, 01 Nov 2018) | 1 line
+
+commit sprint3backlog
+------------------------------------------------------------------------
+r154 | lamyuk1@UTORONTO.CA | 2018-10-31 23:38:02 -0400 (Wed, 31 Oct 2018) | 3 lines
+
+- fixed comments in Cd
+- completed Popd
+- completed Pushd
+------------------------------------------------------------------------
+r153 | lamyuk1@UTORONTO.CA | 2018-10-31 22:47:39 -0400 (Wed, 31 Oct 2018) | 1 line
+
+- finished Cd command
+------------------------------------------------------------------------
+r152 | sujeffer@UTORONTO.CA | 2018-10-31 16:06:18 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Finished up LS. Just need Cd to work in order to fully test the class since Ls colaberate with Cd
+------------------------------------------------------------------------
+r151 | zhan5263@UTORONTO.CA | 2018-10-31 14:35:23 -0400 (Wed, 31 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r150 | zhan5263@UTORONTO.CA | 2018-10-31 14:33:43 -0400 (Wed, 31 Oct 2018) | 1 line
+
+valid ls main method for test
+------------------------------------------------------------------------
+r149 | zhan5263@UTORONTO.CA | 2018-10-31 14:20:01 -0400 (Wed, 31 Oct 2018) | 1 line
+
+debug ls and controller
+------------------------------------------------------------------------
+r148 | zhan5263@UTORONTO.CA | 2018-10-31 14:16:19 -0400 (Wed, 31 Oct 2018) | 2 lines
+
+
+
+------------------------------------------------------------------------
+r147 | lamyuk1@UTORONTO.CA | 2018-10-31 11:51:29 -0400 (Wed, 31 Oct 2018) | 3 lines
+
+- fixed Directory public static instance variable to private static
+- fixed Mkdir, Ls, and Cd from accessing private static variable directly to accessing through getter method.
+- working on making a working Cd.
+------------------------------------------------------------------------
+r146 | xiatia18@UTORONTO.CA | 2018-10-31 02:13:08 -0400 (Wed, 31 Oct 2018) | 1 line
+
+implement the Controller class the change the cases in relation to the Cd and Mkdir and Ls class.
+------------------------------------------------------------------------
+r145 | xiatia18@UTORONTO.CA | 2018-10-31 02:06:37 -0400 (Wed, 31 Oct 2018) | 1 line
+
+firstly update the Cd class, change the input of  runCommand method to be String type, and add the ability to use the path input starts without "/" such like "a/b/c" to change the current directory from the current directory based on the path.Second, update the Mkdir class, change the input of  runCommand method to be String type, and add the ability to use the path input starts without "/" such like "a/b/c" to create directory from the current directory based on the path, not throw a exception.
+------------------------------------------------------------------------
+r144 | zhan5263@UTORONTO.CA | 2018-10-31 00:49:47 -0400 (Wed, 31 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r143 | zhan5263@UTORONTO.CA | 2018-10-31 00:42:10 -0400 (Wed, 31 Oct 2018) | 1 line
+
+update mkdir
+------------------------------------------------------------------------
+r142 | zhan5263@UTORONTO.CA | 2018-10-31 00:34:43 -0400 (Wed, 31 Oct 2018) | 1 line
+
+update mkdir
+------------------------------------------------------------------------
+r141 | zhan5263@UTORONTO.CA | 2018-10-31 00:22:41 -0400 (Wed, 31 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r140 | zhan5263@UTORONTO.CA | 2018-10-31 00:20:52 -0400 (Wed, 31 Oct 2018) | 1 line
+
+change to none static
+------------------------------------------------------------------------
+r139 | lamyuk1@UTORONTO.CA | 2018-10-31 00:15:58 -0400 (Wed, 31 Oct 2018) | 1 line
+
+- created sprint2 October30
+------------------------------------------------------------------------
+r138 | lamyuk1@UTORONTO.CA | 2018-10-31 00:14:47 -0400 (Wed, 31 Oct 2018) | 1 line
+
+- deleted CommandExecuter (meant to be used to local testing purposes).
+------------------------------------------------------------------------
+r137 | lamyuk1@UTORONTO.CA | 2018-10-31 00:03:12 -0400 (Wed, 31 Oct 2018) | 1 line
+
+- fixed exception error in Cd
+------------------------------------------------------------------------
+r136 | lamyuk1@UTORONTO.CA | 2018-10-31 00:02:00 -0400 (Wed, 31 Oct 2018) | 1 line
+
+- edited Cd parameters
+------------------------------------------------------------------------
+r135 | xiatia18@UTORONTO.CA | 2018-10-30 23:59:52 -0400 (Tue, 30 Oct 2018) | 1 line
+
+initialize the meeting
+------------------------------------------------------------------------
+r134 | lamyuk1@UTORONTO.CA | 2018-10-30 23:59:09 -0400 (Tue, 30 Oct 2018) | 1 line
+
+-changed static methods to non-static
+------------------------------------------------------------------------
+r133 | sujeffer@UTORONTO.CA | 2018-10-30 23:45:12 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Ls commiting for the others to see.
+------------------------------------------------------------------------
+r132 | zhan5263@UTORONTO.CA | 2018-10-30 23:44:13 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r131 | zhan5263@UTORONTO.CA | 2018-10-30 23:41:02 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r130 | sujeffer@UTORONTO.CA | 2018-10-30 23:40:57 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Added a runCommand method into the Commands class
+------------------------------------------------------------------------
+r129 | zhan5263@UTORONTO.CA | 2018-10-30 23:30:47 -0400 (Tue, 30 Oct 2018) | 1 line
+
+change cd to none static
+------------------------------------------------------------------------
+r128 | lamyuk1@UTORONTO.CA | 2018-10-30 23:24:09 -0400 (Tue, 30 Oct 2018) | 1 line
+
+- modified History
+------------------------------------------------------------------------
+r127 | sujeffer@UTORONTO.CA | 2018-10-30 23:10:59 -0400 (Tue, 30 Oct 2018) | 1 line
+
+updating ls 
+------------------------------------------------------------------------
+r126 | sujeffer@UTORONTO.CA | 2018-10-30 23:03:17 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Commiting October 30th's Scrum Meetings
+------------------------------------------------------------------------
+r125 | zhan5263@UTORONTO.CA | 2018-10-30 22:34:39 -0400 (Tue, 30 Oct 2018) | 1 line
+
+submit dailyScrumMeeting 4
+------------------------------------------------------------------------
+r124 | zhan5263@UTORONTO.CA | 2018-10-30 22:27:42 -0400 (Tue, 30 Oct 2018) | 1 line
+
+add some doc to explain handleOrder
+------------------------------------------------------------------------
+r123 | zhan5263@UTORONTO.CA | 2018-10-30 22:22:37 -0400 (Tue, 30 Oct 2018) | 2 lines
+
+cooperated mkdir with jshell and controller. 
+i.e.type "mkdir /a", it can be executed now.
+------------------------------------------------------------------------
+r122 | zhan5263@UTORONTO.CA | 2018-10-30 21:36:37 -0400 (Tue, 30 Oct 2018) | 1 line
+
+add lines to avoid error
+------------------------------------------------------------------------
+r121 | zhan5263@UTORONTO.CA | 2018-10-30 21:30:50 -0400 (Tue, 30 Oct 2018) | 1 line
+
+change cd to static
+------------------------------------------------------------------------
+r120 | zhan5263@UTORONTO.CA | 2018-10-30 21:30:34 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Noted some method unfinished. Now run jshell, type in exit command, it can be executed(in controller)
+------------------------------------------------------------------------
+r119 | zhan5263@UTORONTO.CA | 2018-10-30 15:18:02 -0400 (Tue, 30 Oct 2018) | 1 line
+
+not sure what command class is for
+------------------------------------------------------------------------
+r118 | zhan5263@UTORONTO.CA | 2018-10-30 15:10:06 -0400 (Tue, 30 Oct 2018) | 1 line
+
+collaborates cat with controller
+------------------------------------------------------------------------
+r117 | zhan5263@UTORONTO.CA | 2018-10-30 15:07:15 -0400 (Tue, 30 Oct 2018) | 1 line
+
+make some change to handleOrder
+------------------------------------------------------------------------
+r116 | zhan5263@UTORONTO.CA | 2018-10-30 15:06:21 -0400 (Tue, 30 Oct 2018) | 1 line
+
+update crcCards: cat, jshell, controller.
+------------------------------------------------------------------------
+r115 | zhan5263@UTORONTO.CA | 2018-10-30 14:53:44 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r114 | zhan5263@UTORONTO.CA | 2018-10-30 14:51:50 -0400 (Tue, 30 Oct 2018) | 1 line
+
+deleted file handler as io.file is not allowed
+------------------------------------------------------------------------
+r113 | zhan5263@UTORONTO.CA | 2018-10-30 14:50:44 -0400 (Tue, 30 Oct 2018) | 1 line
+
+change some code in showContent in directory
+------------------------------------------------------------------------
+r112 | zhan5263@UTORONTO.CA | 2018-10-30 14:50:16 -0400 (Tue, 30 Oct 2018) | 1 line
+
+conduct Cat class
+------------------------------------------------------------------------
+r111 | zhan5263@UTORONTO.CA | 2018-10-30 14:43:35 -0400 (Tue, 30 Oct 2018) | 1 line
+
+add showContent method to directory
+------------------------------------------------------------------------
+r110 | zhan5263@UTORONTO.CA | 2018-10-30 14:05:42 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r109 | zhan5263@UTORONTO.CA | 2018-10-30 14:01:13 -0400 (Tue, 30 Oct 2018) | 1 line
+
+cooperated classes with controller and change some methods to static
+------------------------------------------------------------------------
+r108 | zhan5263@UTORONTO.CA | 2018-10-30 13:51:01 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r107 | zhan5263@UTORONTO.CA | 2018-10-30 13:47:48 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Cooperate JShell, controller and make an example of using ls
+------------------------------------------------------------------------
+r106 | zhan5263@UTORONTO.CA | 2018-10-30 13:14:58 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r105 | zhan5263@UTORONTO.CA | 2018-10-30 13:14:47 -0400 (Tue, 30 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r104 | zhan5263@UTORONTO.CA | 2018-10-30 13:13:07 -0400 (Tue, 30 Oct 2018) | 1 line
+
+add handleOrder method into Jshell to cooperate with ordertable
+------------------------------------------------------------------------
+r103 | xiatia18@UTORONTO.CA | 2018-10-30 04:12:46 -0400 (Tue, 30 Oct 2018) | 1 line
+
+update the mkdir class with finished two method
+------------------------------------------------------------------------
+r102 | xiatia18@UTORONTO.CA | 2018-10-30 03:00:44 -0400 (Tue, 30 Oct 2018) | 1 line
+
+update the runcommand method to cd class and update the directory class to have a static variable root initialized with one Directory object named "/"
+------------------------------------------------------------------------
+r101 | xiatia18@UTORONTO.CA | 2018-10-30 02:11:04 -0400 (Tue, 30 Oct 2018) | 1 line
+
+initialize the commands class and update a static variable for the directory class
+------------------------------------------------------------------------
+r100 | xiatia18@UTORONTO.CA | 2018-10-30 02:01:31 -0400 (Tue, 30 Oct 2018) | 1 line
+
+update the cd class with unfinished methods
+------------------------------------------------------------------------
+r99 | xiatia18@UTORONTO.CA | 2018-10-30 00:49:25 -0400 (Tue, 30 Oct 2018) | 1 line
+
+initialize the right cd class rather than existing cddir class
+------------------------------------------------------------------------
+r98 | lamyuk1@UTORONTO.CA | 2018-10-29 23:35:08 -0400 (Mon, 29 Oct 2018) | 1 line
+
+- general debugging on Popd, Pushd, Pwd, Directory, File classes
+------------------------------------------------------------------------
+r97 | lamyuk1@UTORONTO.CA | 2018-10-29 22:19:16 -0400 (Mon, 29 Oct 2018) | 1 line
+
+- added package driver to File class
+------------------------------------------------------------------------
+r96 | lamyuk1@UTORONTO.CA | 2018-10-29 22:16:25 -0400 (Mon, 29 Oct 2018) | 1 line
+
+- modified File class constructor
+------------------------------------------------------------------------
+r95 | sujeffer@UTORONTO.CA | 2018-10-29 22:10:08 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Worked on Ls command, there is still some bugs but very close to being done.
+------------------------------------------------------------------------
+r94 | xiatia18@UTORONTO.CA | 2018-10-27 23:13:58 -0400 (Sat, 27 Oct 2018) | 1 line
+
+initialized the third sprint for meeting
+------------------------------------------------------------------------
+r93 | sujeffer@UTORONTO.CA | 2018-10-27 22:45:58 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Sprint 2 Scrum meeting for oct 27
+------------------------------------------------------------------------
+r92 | zhan5263@UTORONTO.CA | 2018-10-27 22:05:41 -0400 (Sat, 27 Oct 2018) | 1 line
+
+submit daily scrum meeting sprint3
+------------------------------------------------------------------------
+r91 | zhan5263@UTORONTO.CA | 2018-10-27 22:03:04 -0400 (Sat, 27 Oct 2018) | 1 line
+
+add crcCard controller, deleted commands, did some rough explanation, will make it more clear
+------------------------------------------------------------------------
+r90 | zhan5263@UTORONTO.CA | 2018-10-27 21:59:13 -0400 (Sat, 27 Oct 2018) | 1 line
+
+delete commands class, as it's somewhere same as controller, will explain in crccards
+------------------------------------------------------------------------
+r89 | zhan5263@UTORONTO.CA | 2018-10-27 21:57:53 -0400 (Sat, 27 Oct 2018) | 1 line
+
+work on controller, just some rough work for understanding
+------------------------------------------------------------------------
+r88 | zhan5263@UTORONTO.CA | 2018-10-27 21:57:23 -0400 (Sat, 27 Oct 2018) | 1 line
+
+work on odercount
+------------------------------------------------------------------------
+r87 | lamyuk1@UTORONTO.CA | 2018-10-27 21:37:29 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- added scrum meeting file October27
+------------------------------------------------------------------------
+r86 | lamyuk1@UTORONTO.CA | 2018-10-27 21:32:04 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- added collaborator for Popd
+------------------------------------------------------------------------
+r85 | lamyuk1@UTORONTO.CA | 2018-10-27 18:05:05 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- modified implementation of Pushd, created Popd
+------------------------------------------------------------------------
+r84 | lamyuk1@UTORONTO.CA | 2018-10-27 17:07:33 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- added Collaborator for Pushd (CdDIR)
+------------------------------------------------------------------------
+r83 | lamyuk1@UTORONTO.CA | 2018-10-27 17:06:54 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- removed unnecessary code in Pwd
+------------------------------------------------------------------------
+r82 | lamyuk1@UTORONTO.CA | 2018-10-27 16:59:27 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- created Pushd 
+------------------------------------------------------------------------
+r81 | lamyuk1@UTORONTO.CA | 2018-10-27 15:15:55 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- changed name of PushDIR to Pushd to be consistent with Popd
+------------------------------------------------------------------------
+r80 | lamyuk1@UTORONTO.CA | 2018-10-27 13:47:32 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- created Javadoc for History class
+------------------------------------------------------------------------
+r79 | lamyuk1@UTORONTO.CA | 2018-10-27 13:37:25 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- implemented Pwd, further testing of Directory
+------------------------------------------------------------------------
+r78 | lamyuk1@UTORONTO.CA | 2018-10-27 13:12:08 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- added currentDir pointer to Directory
+------------------------------------------------------------------------
+r77 | lamyuk1@UTORONTO.CA | 2018-10-27 12:14:43 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- modified Javadoc on Directory
+------------------------------------------------------------------------
+r76 | lamyuk1@UTORONTO.CA | 2018-10-27 12:11:40 -0400 (Sat, 27 Oct 2018) | 1 line
+
+- implemented and tested Directory class
+------------------------------------------------------------------------
+r75 | lamyuk1@UTORONTO.CA | 2018-10-24 22:47:18 -0400 (Wed, 24 Oct 2018) | 1 line
+
+- started a method to be completed in Directory, and revised Pwd
+------------------------------------------------------------------------
+r74 | sujeffer@UTORONTO.CA | 2018-10-24 21:35:28 -0400 (Wed, 24 Oct 2018) | 1 line
+
+finished the main method in JShell
+------------------------------------------------------------------------
+r73 | lamyuk1@UTORONTO.CA | 2018-10-24 21:24:46 -0400 (Wed, 24 Oct 2018) | 1 line
+
+- updated CRC card Directory.txt
+------------------------------------------------------------------------
+r72 | xiatia18@UTORONTO.CA | 2018-10-24 17:02:26 -0400 (Wed, 24 Oct 2018) | 1 line
+
+initialize the right directory constructor, and 3 methods include add, delete and print the whole single line directory.
+------------------------------------------------------------------------
+r71 | xiatia18@UTORONTO.CA | 2018-10-23 23:48:21 -0400 (Tue, 23 Oct 2018) | 1 line
+
+update my work 
+------------------------------------------------------------------------
+r70 | sujeffer@UTORONTO.CA | 2018-10-23 23:30:12 -0400 (Tue, 23 Oct 2018) | 1 line
+
+SPrint2 backlog update
+------------------------------------------------------------------------
+r69 | zhan5263@UTORONTO.CA | 2018-10-23 23:21:22 -0400 (Tue, 23 Oct 2018) | 1 line
+
+made some change to sprint2backlog
+------------------------------------------------------------------------
+r68 | xiatia18@UTORONTO.CA | 2018-10-23 23:20:58 -0400 (Tue, 23 Oct 2018) | 1 line
+
+update my meeting Spring1
+------------------------------------------------------------------------
+r67 | zhan5263@UTORONTO.CA | 2018-10-23 23:18:34 -0400 (Tue, 23 Oct 2018) | 2 lines
+
+made some change to spirnt2backlog
+
+------------------------------------------------------------------------
+r66 | zhan5263@UTORONTO.CA | 2018-10-23 23:16:58 -0400 (Tue, 23 Oct 2018) | 1 line
+
+made some change to sprint2backolg
+------------------------------------------------------------------------
+r65 | zhan5263@UTORONTO.CA | 2018-10-23 23:15:06 -0400 (Tue, 23 Oct 2018) | 2 lines
+
+update sprint2backlog
+
+------------------------------------------------------------------------
+r64 | sujeffer@UTORONTO.CA | 2018-10-23 23:13:57 -0400 (Tue, 23 Oct 2018) | 1 line
+
+SPrint2 backlog update
+------------------------------------------------------------------------
+r63 | zhan5263@UTORONTO.CA | 2018-10-23 23:13:05 -0400 (Tue, 23 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r62 | sujeffer@UTORONTO.CA | 2018-10-23 22:50:00 -0400 (Tue, 23 Oct 2018) | 1 line
+
+updating the Sprint2 backlog
+------------------------------------------------------------------------
+r61 | zhan5263@UTORONTO.CA | 2018-10-23 22:43:45 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Commit dailyScrumMeeting file2 for Oct23
+------------------------------------------------------------------------
+r60 | sujeffer@UTORONTO.CA | 2018-10-23 22:29:51 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Scrum meeting for oct 23
+------------------------------------------------------------------------
+r59 | lamyuk1@UTORONTO.CA | 2018-10-23 22:26:22 -0400 (Tue, 23 Oct 2018) | 1 line
+
+- added some tasks from sprint1backlog that was not finished on time
+------------------------------------------------------------------------
+r58 | lamyuk1@UTORONTO.CA | 2018-10-23 22:20:11 -0400 (Tue, 23 Oct 2018) | 1 line
+
+- added Popd and PushDIR as tasks to be completed
+------------------------------------------------------------------------
+r57 | lamyuk1@UTORONTO.CA | 2018-10-23 22:15:16 -0400 (Tue, 23 Oct 2018) | 1 line
+
+- added Sprint1 daily scrum meeting (Oct. 23)
+------------------------------------------------------------------------
+r56 | xiatia18@UTORONTO.CA | 2018-10-23 16:13:37 -0400 (Tue, 23 Oct 2018) | 1 line
+
+change the crc card file to txt due to a mistake 
+------------------------------------------------------------------------
+r55 | xiatia18@UTORONTO.CA | 2018-10-23 16:06:27 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Add two deleted crc cards back to crc collection
+------------------------------------------------------------------------
+r54 | xiatia18@UTORONTO.CA | 2018-10-23 15:52:39 -0400 (Tue, 23 Oct 2018) | 1 line
+
+deletion of two echos crc cards due to some problem causing svn problems
+------------------------------------------------------------------------
+r53 | lamyuk1@UTORONTO.CA | 2018-10-21 23:36:36 -0400 (Sun, 21 Oct 2018) | 1 line
+
+-completed History and updated Pwd
+------------------------------------------------------------------------
+r52 | zhan5263@UTORONTO.CA | 2018-10-21 22:59:58 -0400 (Sun, 21 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r51 | sujeffer@UTORONTO.CA | 2018-10-21 22:49:52 -0400 (Sun, 21 Oct 2018) | 1 line
+
+worked on file class and changed directory class
+------------------------------------------------------------------------
+r50 | sujeffer@UTORONTO.CA | 2018-10-21 22:46:04 -0400 (Sun, 21 Oct 2018) | 1 line
+
+worked on file class and changed directory class
+------------------------------------------------------------------------
+r49 | sujeffer@UTORONTO.CA | 2018-10-21 22:28:56 -0400 (Sun, 21 Oct 2018) | 1 line
+
+Made and starting the file class
+------------------------------------------------------------------------
+r48 | sujeffer@UTORONTO.CA | 2018-10-21 21:57:37 -0400 (Sun, 21 Oct 2018) | 1 line
+
+changed methods in the Directory class
+------------------------------------------------------------------------
+r47 | xiatia18@UTORONTO.CA | 2018-10-21 15:58:58 -0400 (Sun, 21 Oct 2018) | 1 line
+
+I got emergency at 20th night because the call from my parent from China, that's why i am late
+------------------------------------------------------------------------
+r46 | sujeffer@UTORONTO.CA | 2018-10-21 02:31:20 -0400 (Sun, 21 Oct 2018) | 1 line
+
+Commiting Scrum meeting for October 20th
+------------------------------------------------------------------------
+r45 | zhan5263@UTORONTO.CA | 2018-10-20 22:01:58 -0400 (Sat, 20 Oct 2018) | 1 line
+
+commit daliyscrummeeting file1
+------------------------------------------------------------------------
+r44 | lamyuk1@UTORONTO.CA | 2018-10-20 21:45:39 -0400 (Sat, 20 Oct 2018) | 1 line
+
+- created sprint1backlog
+------------------------------------------------------------------------
+r43 | zhan5263@UTORONTO.CA | 2018-10-20 18:59:32 -0400 (Sat, 20 Oct 2018) | 1 line
+
+add sprintbacklog2 for discussion and correction :)
+------------------------------------------------------------------------
+r42 | zhan5263@UTORONTO.CA | 2018-10-20 18:52:33 -0400 (Sat, 20 Oct 2018) | 2 lines
+
+add codes for "check if command is valid"
+add OrderHandler method
+------------------------------------------------------------------------
+r41 | sujeffer@UTORONTO.CA | 2018-10-20 16:04:38 -0400 (Sat, 20 Oct 2018) | 1 line
+
+started and added some methods to Directory.
+------------------------------------------------------------------------
+r40 | zhan5263@UTORONTO.CA | 2018-10-20 15:56:56 -0400 (Sat, 20 Oct 2018) | 1 line
+
+simplify FileHandler
+------------------------------------------------------------------------
+r39 | zhan5263@UTORONTO.CA | 2018-10-20 15:54:27 -0400 (Sat, 20 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r38 | zhan5263@UTORONTO.CA | 2018-10-20 15:52:25 -0400 (Sat, 20 Oct 2018) | 1 line
+
+fix some error in FileHandler, CdDIR and Commands
+------------------------------------------------------------------------
+r37 | zhan5263@UTORONTO.CA | 2018-10-20 15:37:31 -0400 (Sat, 20 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r36 | zhan5263@UTORONTO.CA | 2018-10-20 15:36:20 -0400 (Sat, 20 Oct 2018) | 1 line
+
+add FileHandler and compiled it
+------------------------------------------------------------------------
+r35 | zhan5263@UTORONTO.CA | 2018-10-20 14:39:12 -0400 (Sat, 20 Oct 2018) | 1 line
+
+add class Commands
+------------------------------------------------------------------------
+r34 | lamyuk1@UTORONTO.CA | 2018-10-19 20:01:45 -0400 (Fri, 19 Oct 2018) | 1 line
+
+- added History class
+------------------------------------------------------------------------
+r33 | lamyuk1@UTORONTO.CA | 2018-10-19 17:35:45 -0400 (Fri, 19 Oct 2018) | 1 line
+
+- modified pwd
+------------------------------------------------------------------------
+r32 | lamyuk1@UTORONTO.CA | 2018-10-19 17:26:00 -0400 (Fri, 19 Oct 2018) | 1 line
+
+-created Pwd class
+------------------------------------------------------------------------
+r31 | zhan5263@UTORONTO.CA | 2018-10-19 17:09:25 -0400 (Fri, 19 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+r30 | zhan5263@UTORONTO.CA | 2018-10-19 17:01:20 -0400 (Fri, 19 Oct 2018) | 1 line
+
+add validation method in JShell
+------------------------------------------------------------------------
+r29 | zhan5263@UTORONTO.CA | 2018-10-19 16:52:30 -0400 (Fri, 19 Oct 2018) | 1 line
+
+add CdDIR class, add few methods inside CdDIR, add honor code
+------------------------------------------------------------------------
+r28 | zhan5263@UTORONTO.CA | 2018-10-19 16:35:57 -0400 (Fri, 19 Oct 2018) | 1 line
+
+updated relationships and responsibilities of crcCards
+------------------------------------------------------------------------
+r27 | zhan5263@UTORONTO.CA | 2018-10-19 16:21:30 -0400 (Fri, 19 Oct 2018) | 1 line
+
+add necessary crcCards
+------------------------------------------------------------------------
+r26 | zhan5263@UTORONTO.CA | 2018-10-19 15:55:31 -0400 (Fri, 19 Oct 2018) | 1 line
+
+delete unrelated crcCards
+------------------------------------------------------------------------
+r25 | lamyuk1@UTORONTO.CA | 2018-10-19 10:35:50 -0400 (Fri, 19 Oct 2018) | 1 line
+
+-added Directory class, added getDirectory method.
+------------------------------------------------------------------------
+r24 | lamyuk1@UTORONTO.CA | 2018-10-18 17:16:53 -0400 (Thu, 18 Oct 2018) | 1 line
+
+-added CRC cards
+------------------------------------------------------------------------
+r23 | lamyuk1@UTORONTO.CA | 2018-10-17 23:38:48 -0400 (Wed, 17 Oct 2018) | 2 lines
+
+- productBacklogFor2A.txt formatting
+
+------------------------------------------------------------------------
+r22 | lamyuk1@UTORONTO.CA | 2018-10-17 23:37:23 -0400 (Wed, 17 Oct 2018) | 1 line
+
+- productBacklogFor2A.txt formatting
+------------------------------------------------------------------------
+r21 | lamyuk1@UTORONTO.CA | 2018-10-17 23:36:58 -0400 (Wed, 17 Oct 2018) | 1 line
+
+- productBacklogFor2A.txt formatting
+------------------------------------------------------------------------
+r20 | lamyuk1@UTORONTO.CA | 2018-10-17 23:33:14 -0400 (Wed, 17 Oct 2018) | 2 lines
+
+- productBacklogFor2A.txt formatting
+
+------------------------------------------------------------------------
+r19 | zhan5263@UTORONTO.CA | 2018-10-17 23:25:40 -0400 (Wed, 17 Oct 2018) | 1 line
+
+change unvalide char
+------------------------------------------------------------------------
+r18 | sujeffer@UTORONTO.CA | 2018-10-17 23:20:09 -0400 (Wed, 17 Oct 2018) | 1 line
+
+Sprint1 backlog update 2
+------------------------------------------------------------------------
+r17 | sujeffer@UTORONTO.CA | 2018-10-17 23:08:50 -0400 (Wed, 17 Oct 2018) | 1 line
+
+Sprint1 backlog update
+------------------------------------------------------------------------
+r16 | lamyuk1@UTORONTO.CA | 2018-10-17 22:55:36 -0400 (Wed, 17 Oct 2018) | 1 line
+
+- deleted old Sprint1Backlog
+------------------------------------------------------------------------
+r15 | lamyuk1@UTORONTO.CA | 2018-10-17 22:55:02 -0400 (Wed, 17 Oct 2018) | 1 line
+
+- added Sprint1Backlog.txt
+------------------------------------------------------------------------
+r14 | sujeffer@UTORONTO.CA | 2018-10-17 22:50:57 -0400 (Wed, 17 Oct 2018) | 1 line
+
+1st version of sprint1 backlog
+------------------------------------------------------------------------
+r13 | lamyuk1@UTORONTO.CA | 2018-10-17 22:18:59 -0400 (Wed, 17 Oct 2018) | 1 line
+
+- added to productBacklogFor2A.txt
+------------------------------------------------------------------------
+r11 | lamyuk1@UTORONTO.CA | 2018-10-17 21:20:04 -0400 (Wed, 17 Oct 2018) | 1 line
+
+-moved productBacklog/productBacklogFor2A.txt to correct folder
+------------------------------------------------------------------------
+r10 | lamyuk1@UTORONTO.CA | 2018-10-17 18:36:34 -0400 (Wed, 17 Oct 2018) | 1 line
+
+-added backlog items
+------------------------------------------------------------------------
+r9 | lamyuk1@UTORONTO.CA | 2018-10-17 17:29:57 -0400 (Wed, 17 Oct 2018) | 1 line
+
+-created productBacklogFor2A.txt
+------------------------------------------------------------------------
+r7 | attarwal@UTORONTO.CA | 2018-10-15 18:05:06 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r6 | attarwal@UTORONTO.CA | 2018-10-15 18:05:05 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r5 | attarwal@UTORONTO.CA | 2018-10-15 18:05:04 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2018-10-15 18:05:03 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2018-10-15 18:05:02 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2018-10-15 18:05:02 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | Markus | 2018-10-14 15:25:50 -0400 (Sun, 14 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
++++ON ALL SOURCE FILES+++
+  16 attarwal@U
+1031 lamyuk1@UT
+ 613 sujeffer@U
+ 189 xiatia18@U
+ 719 zhan5263@U
++++ON CRC CARDS+++
+   9 attarwal@U
+  42 lamyuk1@UT
+   1 sujeffer@U
+  22 xiatia18@U
+ 117 zhan5263@U
++++ON DAILYSCRUMMEETINGS+++
+  41 attarwal@U
+  86 lamyuk1@UT
+  69 sujeffer@U
+  73 xiatia18@U
+ 113 zhan5263@U
++++ON PRODUCT BACKLOG +++
+  11 attarwal@U
+  57 lamyuk1@UT
+   3 zhan5263@U
++++ON SPRINTS+++
+  28 lamyuk1@UT
+  48 sujeffer@U
+   1 xiatia18@U
+ 127 zhan5263@U
+29451
+Part 4) SVN Commits
+
+
+On Sprints
+   1  attarwal@UTORONTO.CA 
+   4  lamyuk1@UTORONTO.CA 
+   8  sujeffer@UTORONTO.CA 
+   1  xiatia18@UTORONTO.CA 
+  10  zhan5263@UTORONTO.CA 
+
+
+On CRC Cards
+   1  attarwal@UTORONTO.CA 
+  13  lamyuk1@UTORONTO.CA 
+   1  sujeffer@UTORONTO.CA 
+   3  xiatia18@UTORONTO.CA 
+   6  zhan5263@UTORONTO.CA 
+
+
+On DailyScrumMeetings
+   1  attarwal@UTORONTO.CA 
+   6  lamyuk1@UTORONTO.CA 
+   6  sujeffer@UTORONTO.CA 
+   6  xiatia18@UTORONTO.CA 
+   9  zhan5263@UTORONTO.CA 
+
+
+On ProductBacklog
+   1  attarwal@UTORONTO.CA 
+   6  lamyuk1@UTORONTO.CA 
+   2  zhan5263@UTORONTO.CA 
+
+
+On source
+   1  attarwal@UTORONTO.CA 
+  50  lamyuk1@UTORONTO.CA 
+  28  sujeffer@UTORONTO.CA 
+  31  xiatia18@UTORONTO.CA 
+  83  zhan5263@UTORONTO.CA 

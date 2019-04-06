@@ -1,0 +1,39 @@
+October 31 to November 7
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to see the contents of the one or more files in the shell
+b) As a user, I want to add a string into a file without overwriting it.
+c) As a user, I want to overwrite a file with a string
+j) As a user, I want check whether my command is valid or not.
+k) As a user, I want to be able to type the commands into the shell. [JShell]
+
+Specific tasks to be accomplished:
+a-1. finish coding cat
+b-1. finish coding echoStringAppend
+c-1. finish coding echoStringOverwrite
+j-1. Validation of command
+k-1. Begin coding on JShell
+k-2. Debug each class
+k-3. cooperate each class with JShell
+k-4. create exception class
+k-5. create test files for all the command classes
+
+z-1. Work on crc Cards.
+
+
+These tasks are assigned as follows:
+
+User: Jeffery Wei Xuan Su
+Tasks: z-1, j-1, k-2, k-5
+
+User: Tian Xia
+Tasks: z-1, j-1, k-2, k-4
+
+User: Ti Zhang
+Tasks: z-1, a-1, b-1, c-1, k-2
+
+User: Yuk Ming Lam
+Tasks: z-1, j-1, k-1, k-2, k-3
+
+

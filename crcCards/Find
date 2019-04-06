@@ -1,0 +1,11 @@
+Class names: Find
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Searches the path given for an item with a specific name.
+  The path, type of item (file or directory), and item name must be specified.
+
+
+Collaborators:
+* Directory

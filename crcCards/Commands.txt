@@ -1,0 +1,9 @@
+Class names: Commands
+Parent class (if any): N/A
+Subclasses (if any): CatFILE1[FILE2], CdDIR, EchoSTRING[>OUTFILE], EchoSTRING>>OUTFILE, Exit, History[number], Ls[PATH], Man[CMD], Mkdir[DIR], Popd, PushDIR, Pwd
+
+Responsibilities:
+* ?
+
+Collaborators: 
+* 

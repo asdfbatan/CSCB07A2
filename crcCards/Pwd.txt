@@ -1,0 +1,9 @@
+Class names: Pwd
+Parent class (if any): Commands 
+Subclasses (if any): 
+
+Responsibilities:
+* Print the current directory's name and the whole path of the directory.
+
+Collaborators:
+* Directory

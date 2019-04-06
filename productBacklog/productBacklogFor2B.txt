@@ -1,0 +1,35 @@
+Backlog Item                                                |	Estimate
+----------------------------------------------------------------------------
+As a user, I want to see the contents of more than one      |
+file in the shell, separated by three line breaks if there  |1 day	
+is more than one file.                                      |
+----------------------------------------------------------------------------
+As a user, I want to be able to redirect output of commands |1 day
+to a file                                                   |
+----------------------------------------------------------------------------
+As a user, I want to be able to recursively list all        |
+sub directories.                                            |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to move an item from one       |
+directory to another.                                       |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to copy an item from one       |
+directory to another.                                       |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to retrieve a file by giving   |
+a URL. A file should be created in the current working      |
+directory.                                                  |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to save the progress of my     |
+current session.                                            |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to load up the progress from   |
+a previous session.                                         |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to find files or directories   |
+with a specific name by giving one or more directory        |
+paths.                                                      |1 day
+----------------------------------------------------------------------------
+As a user, I want to be able to display the entire file     |
+system as a tree.                                           |3 days
+----------------------------------------------------------------------------

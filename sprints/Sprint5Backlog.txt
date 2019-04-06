@@ -1,0 +1,35 @@
+November 19 to November 26
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I want to be able to display the entire file system as a tree.
+b) As a user, I want to be able to save the progress of my current session.
+c) As a user, I want to be able to load up the progress from a previous session.
+
+Specific tasks to be accomplished:
+a-1 create and implement tree
+b-1 create and implement save
+c-1 create and implement load
+
+d-1 change controller to pass on correct input to commands
+d-2 fix ls command to work as in A2A
+d-3 fix echo command to work as in A2A
+d-4 fix man to work as in A2A
+d-5 fix history to work as in A2A
+
+e-1 create test cases for new commands
+
+
+These tasks are assigned as follows:
+
+User: Jeffery Wei Xuan Su
+Tasks: e-1
+
+User: Tian Xia
+Tasks: b-1，c-1, e-1，
+
+User: Ti Zhang
+Tasks: a-1, b-1, c-1, d-3
+
+User: Yuk Ming Lam
+Tasks: d-1, d-2, d-3, d-4, d-5

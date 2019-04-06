@@ -1,0 +1,20 @@
+Class names: Controller
+Parent class (if any): N/A
+Subclasses (if any): 
+
+Responsibilities:
+* execute the commands(with or without params)by call corresponding classes.
+
+Collaborators: 
+* JShell
+* Directory
+* Exit
+* Mkdir
+* Cd
+* Ls
+* Pwd
+* Pushd
+* Popd
+* History
+* Cat
+* Echo

@@ -1,0 +1,10 @@
+Class names:  Get
+Parent class (if any): Commands
+Subclasses (if any): 
+
+Responsibilities:
+* Retrieves the file at URL and adds it to the current working directory.
+
+
+Collaborators:
+* Directory
