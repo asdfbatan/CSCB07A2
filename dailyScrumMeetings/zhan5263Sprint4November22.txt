@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - complete tree
+    - cooperate tree with controller
+    - add method in controller to remove continuous blanks
+    - brainstormed about how to implement save and load
+
+What do I plan to work in the next three days?
+    - complete save and load
+
+Am I blocked on anything?
+    - how to implement save and load is the best

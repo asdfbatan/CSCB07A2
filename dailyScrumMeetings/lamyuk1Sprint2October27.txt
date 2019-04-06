@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - completed the Directory class as discussed
+    - completed Pwd
+    - implemented Popd
+    - implemented Pushd
+ 
+
+What do I plan to work in the next three days?
+    - discuss on implementation of Cd (potentially changing implementation)
+    - work on mkdir
+    - work on ls
+
+Am I blocked on anything?
+    - need to figure out what FileHandler is about, and what Cd has to do with it.

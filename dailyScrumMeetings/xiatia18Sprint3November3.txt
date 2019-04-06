@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+ - Discussed and talked to the team about implementation of the echo class
+ 
+What do I plan to work in the next three days?
+ - Clear up JShell.
+ - Work on Man
+ - Update the crc Cards
+
+Am I blocked on anything?
+ - Studying for other midterm on November 5th, last too much work to do in 3 days

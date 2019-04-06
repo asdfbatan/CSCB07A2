@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - discussed implementation of JShell/Controller, and how it calls sub commands
+    - revised static implementation of methods in Cd, Controller, History,
+      Pwd, Ls, and etc.. to non-static
+ 
+
+What do I plan to work in the next three days?
+    - try to put together classes to get Mkdir, Cd, and some simple commands
+      into working condition.
+
+Am I blocked on anything?
+    - not entirely sure how OrderTable and Controller works; will be
+      crucial in putting together the whole program.
+  

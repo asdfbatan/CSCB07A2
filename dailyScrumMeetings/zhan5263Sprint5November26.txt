@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - brainstormed about how to implement save and load
+    - implement save and load
+    - cooperate save and load with controller
+    - debug find and tree
+    - add functions to find and tree as piazza asked
+
+What do I plan to work in the next three days?
+
+Am I blocked on anything?

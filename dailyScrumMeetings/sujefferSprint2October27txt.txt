@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+ - Discussed and talked to the team about implementation of classes.
+ - Added the main method in JShell
+ 
+
+What do I plan to work in the next three days?
+ - Start ls
+ - finish JShell
+ - work on crc cards
+
+Am I blocked on anything?
+ - Implementation
+ - What others are working on and how we can make our code work together.

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - discussed the new structure of directory class
+    - update some methods for directory class
+    - discuss the relation between file class and dir class
+
+What do I plan to work in the next three days?
+    - add crcCards and make other cards more clearly.
+    - work on tasks for sprint 2
+    - finish the directory class
+
+Am I blocked on anything?
+    - have no idea with the order table

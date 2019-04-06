@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+ - Creating test files for all the command classes
+ 
+
+What do I plan to work in the next three days?
+ - 
+
+Am I blocked on anything?
+ - Need all the command classes to be finished in order to complete the test files

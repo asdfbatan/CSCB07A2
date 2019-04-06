@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+ - Finished get command
+ - Changed file class for the runcommand of get command
+ - add recursion method to ls command
+ 
+
+What do I plan to work in the next three days?
+ - finish save and load
+ - need to change the controller
+
+Am I blocked on anything?
+ - don't know the method used to deal with real file

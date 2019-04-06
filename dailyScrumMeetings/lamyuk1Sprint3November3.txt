@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - tested Cd, Mkdir, Popd, and Pushd within their respective main methods
+      to ensure they work before being implemented by Jshell and Controller. 
+ 
+
+What do I plan to work in the next three days?
+    - implement completed commands in Jshell, controller
+    - complete the rest of the commands
+    - implement exceptions for commands
+    - test the program with all commands implemented
+
+Am I blocked on anything?
+    - tight on schedule between different course workloads
+ 

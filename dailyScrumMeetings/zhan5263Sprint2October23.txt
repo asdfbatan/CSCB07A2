@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - worked on crcCards
+    - worked on FileHandler (more sufficient)
+    - brainstormed design ideas for FileController. 
+
+What do I plan to work in the next three days?
+    - improve crcCards
+    - relate FileHandler to other classes if finished
+    - relate "validation of commands" to other classes if finished
+    - work on new tasks for sprint 2
+        - start and finish Controller, Cat, [Shell]OrderHandler.
+
+Am I blocked on anything?
+    - Need a Directory to finish FileHandler and lots of related classes
+    - Need a Controller to execute all the commands and show proper return, will do next period
+    - Need Command, History[Number] to be completed (or at least prototyped) before I can continue working

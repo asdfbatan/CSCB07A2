@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - created CRC cards for the project
+    - discussed the implementation of Directory class.
+    - initialized Pwd, History, Directory classes
+ 
+
+What do I plan to work in the next three days?
+    - finish Pwd and History
+
+Am I blocked on anything?
+    - need to discuss on implementation of Directory, File, and Command classes to fully finish Pwd, History, and potentially all of the Command classes.

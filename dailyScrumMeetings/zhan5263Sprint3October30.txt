@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - finished controller
+    - finished cat
+    - add showContent method into Directory(to show file content)
+    - add handleOrder method into JShell(separate input and pass on)
+    - update related crcCards relationships and functions
+    - cooperated mkdir, cd, exit with JShell and Controller, now they can be executed.
+
+What do I plan to work in the next three days?
+    - debug above classes
+    - continue work on tasks for sprint 2
+
+Am I blocked on anything?
+    - not sure what command class is for
+    - don't know where to open a file(i.e need a method in directory point to specific file or open file)

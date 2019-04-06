@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+ - learning serialization
+ - discuss save and load with other student from other teams
+ - and with my partner
+What do I plan to work in the next three days?
+ - write the comment and debugs
+ - work on the save and load command
+
+Am I blocked on anything?
+ - none at the moment.

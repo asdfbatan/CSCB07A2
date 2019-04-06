@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+    - brainstormed for class controller and order handler
+    - complete soomething on controller and order table for understanding
+    - deleted commands and its crcCards as it's somewhere same as the controller
+    - did some rough explanation in controller's crcCard
+
+What do I plan to work in the next three days?
+    - add crcCards and make other cards more clearly.
+    - relate what i did to other classes if finished
+    - work on tasks for sprint 2
+    - delete unrelated classes created by me to avoid confusing
+
+Am I blocked on anything?
+    - Need to have clearly crcCards for what I'm working on to show group members. will do in the following days.

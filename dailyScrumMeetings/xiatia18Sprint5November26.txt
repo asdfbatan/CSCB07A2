@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - brainstormed about how to implement save and load
+    - implement save and load
+    - add functions to find and tree as piazza asked
+
+What do I plan to work in the next three days?
+	- have a rest
+Am I blocked on anything?
+	- none

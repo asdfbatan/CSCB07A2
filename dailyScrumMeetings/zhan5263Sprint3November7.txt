@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - update controller
+    - finished EchoStringOverwrite
+    - finished EchoStringAppend
+    - discussed and solved how to identify echoAppend from echoOverWrite
+    - tested each classes i wrote in their main.
+    - add codes to detect errors input in echo
+    - update related relationships and functions
+    - test and cooperated with JShell and Controller, now they can be executed.
+    - format each class
+
+What do I plan to work in the next three days?
+    - Finished
+
+Am I blocked on anything?
+    - Finished

@@ -1,0 +1,18 @@
+What did I work on in the last three days?
+    - completed Ls to make it accept file path/ file name.
+    - reworked Jshell to work with more than 1 parameter
+    - pieced together JShell and Controller to make program operate
+    - reworked how program halts; created Exit class.
+    - worked on File class
+    - worked on controller
+ 	- fixed History outputting in incorrect order
+ 	- discussed implementation of exception class and Echo
+ 	- implemented exceptions for Cd and Ls
+ 	
+
+What do I plan to work in the next three days?
+    - chill out
+
+Am I blocked on anything?
+    - father time
+ 

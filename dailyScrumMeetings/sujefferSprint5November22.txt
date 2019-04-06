@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+ - Finished the redirection class and added it into the Jshell
+ - Changed the controller class so that it returns a string
+ 
+
+What do I plan to work in the next three days?
+ - continue to add JUnit for testing all the commands
+ - work on the save command
+
+Am I blocked on anything?
+ - none at the moment.

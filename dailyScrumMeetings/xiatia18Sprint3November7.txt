@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+    - completed Ls to make it accept file path/ file name.
+    - reworked Jshell to work with more than 1 parameter
+    - pieced together JShell and Controller to make program operate
+    - worked on controller
+ 	- fixed History outputting in incorrect order
+ 	- discussed implementation of exception class and Echo
+	- add exceptions
+ 	
+
+What do I plan to work in the next three days?
+    - wait and see
+
+Am I blocked on anything?
+    - more time
+ 

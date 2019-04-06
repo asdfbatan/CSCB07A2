@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+ - Discussed and talked to the team about implementation of classes.
+ - Almost done of the Ls class
+ 
+
+What do I plan to work in the next three days?
+ - Finished up ls
+ - work on JShell
+ - Change crc cards
+
+Am I blocked on anything?
+ - Implementation.
+ - Dont know how Cd works.
+ - Need comments on all classes for better understanding.

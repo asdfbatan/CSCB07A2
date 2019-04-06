@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	-created crc cards for the project
+	-discuss the general view of the shell project
+	-initialized the directories
+	
+what do i plan to work in the next three days?
+	-finish ls and directories
+
+Am i blocked on anything?
+	-need to decide the structure of directories, arreylist, queue or binary tree

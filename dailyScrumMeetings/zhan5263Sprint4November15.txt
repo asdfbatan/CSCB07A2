@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - create and complete Find class
+    - change and complete Cat class according to requirement
+    - change orderHandler, now it separates input into 2 parts(order and parameter)
+    - make an example of cooperating Find method with new orderHandle
+
+What do I plan to work in the next three days?
+    - Cooperating new orderHandler with other classes
+
+Am I blocked on anything?
+    - as orderHandler is changed, other classes need to cooperate with it
+    - as orderHandler is changed, controller needs to cooperate with it.
+    - too much codes in controller and old orderHandler 
+      to separate the inputs for each class, 
+      don't know how to cooperate them with new orderHandler

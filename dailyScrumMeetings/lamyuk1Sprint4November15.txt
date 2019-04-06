@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    -completed Mv command
+    -worked on Cp Command
+    -discussed reimplementation of orderHandler in JShell
+    -added methods for Directory; fileOrDirectory(), removeFile().
+    
+
+What do I plan to work in the next three days?
+    -crc cards
+    -completing Cp command
+
+Am I blocked on anything?
+ 	-no

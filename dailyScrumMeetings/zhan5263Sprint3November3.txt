@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - consider abt class test 
+    
+What do I plan to work in the next three days?
+    - do the test files
+    - finish rest of the classes 
+    - debug above classes
+    - continue work on tasks for sprint 3
+
+Am I blocked on anything?
+    - have three midterm from Nov3 to Nov5 so didn't work much

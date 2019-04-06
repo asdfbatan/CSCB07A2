@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+ - Started and add some methods into the Directory class.
+ 
+
+What do I plan to work in the next three days?
+ - Start coding on JShell.
+ - Need to improve crcCards and discuss with the group.
+
+Am I blocked on anything?
+ - Wasn't able to complete move over the last 3 days because I have a exam today (Oct 20th).
+ - Need to discuss with the group on how to implement directory in order to complete directory class.

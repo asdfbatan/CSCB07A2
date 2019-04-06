@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+ - Started the redirection class
+ 
+
+What do I plan to work in the next three days?
+ - finish the redirection class
+
+Am I blocked on anything?
+ - need to change the print of each class into the controller class. We need
+   this because the redirection need other class to return a string instead of
+   printing into the console.

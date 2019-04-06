@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+    - discussed the change of implementation of Directory class
+    - discussed implementation of JShell
+    - completed and tested History
+    - discussed the implementation of File
+    - discussed implementation of Commands
+ 
+
+What do I plan to work in the next three days?
+    - work on JShell
+    - help implement Directory
+    - complete Pwd
+
+Am I blocked on anything?
+    - need to further discuss the implementation of Commands

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+ - Discussed and talked to the team about implementation of classes (JShell, Directory)
+ - Added more methods into the Directory class.
+ 
+
+What do I plan to work in the next three days?
+ - Start coding on JShell.
+ - Finish the directory class
+
+Am I blocked on anything?
+ - Implementation of other classes. Need to make sure I’m coding the right thing.

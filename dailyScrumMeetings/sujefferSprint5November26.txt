@@ -1,0 +1,16 @@
+What did I work on in the last three days?
+ - Changed how redirection is called in JShell
+ - made test for Cat
+ - made test for echo Append and echo Overwrite
+ - made test for redirection
+ - updated the test for history
+ - updated the test for ls
+ - updated the test for man
+ - updated the test for pwd
+ 
+
+What do I plan to work in the next three days?
+ - 
+
+Am I blocked on anything?
+ - 

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+ - Finished the redirection class, just need to add it to the controller
+ - Changed the runCommand of the classes that redirection need so that it returns a string instead of returning nothing.
+ - added the crcCard for the redirection class.
+ 
+
+What do I plan to work in the next three days?
+ - add more classes that the redirection class will be collaborating with.
+ - need to change the controller so that the controller will give out the right result with the changes of the runCommand method.
+
+Am I blocked on anything?
+ - don't know is echo is working and if I should use echo in the redirection class.
